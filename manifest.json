@@ -1,0 +1,13 @@
+{
+  "name": "Jokes Club",
+  "version": "1.0",
+  "manifest_version": 3,
+  
+  "action": {
+    "default_icon": {
+      "16": "logo.png"
+    },
+    "default_title": "Click Me",
+    "default_popup": "popup.html"
+  }
+}
